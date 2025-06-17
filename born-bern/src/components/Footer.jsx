@@ -7,7 +7,7 @@ const Footer = () => {
         {/* Left Side - Name and Title */}
         <div className="space-y-2">
           <h1 className="text-3xl sm:text-4xl font-bold font-title ">
-            Aakashraj Kusum Ambre
+            Client Name
           </h1>
           <p className="text-lg text-gray-300 font-subtitle ">Founder & CEO</p>
         </div>
@@ -21,7 +21,7 @@ const Footer = () => {
                 className="flex items-center gap-3 hover:underline text-gray-300"
               >
                 <FaPhone className="text-red-600" />
-                9819334567
+                xxxxx-xxxxx
               </a>
             </div>
             <div className="flex items-center gap-3">
@@ -30,7 +30,7 @@ const Footer = () => {
                 href="mailto:aakashraj@bonbern.com"
                 className="hover:underline text-gray-300"
               >
-                aakashraj@bonbern.com
+                clientemail@gmail.com
               </a>
             </div>
             <div className="flex items-center gap-3">
@@ -41,7 +41,7 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 className="hover:underline text-gray-300"
               >
-                aakashraj.ambre
+                client instagram
               </a>
             </div>
           </div>
