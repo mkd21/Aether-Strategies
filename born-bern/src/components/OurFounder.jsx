@@ -90,7 +90,7 @@ const OurFounder = () => {
           <div className="animate-founder-text font-title mb-8 leading-relaxed text-center sm:text-left max-w-xl 
             xl:text-[1.125rem] xl:mb-[1.25rem] "
           >
-            <p className="text-3xl xs:text-[1.6rem] xl:text-[1.125rem]" > Aakashraj Kusum Ambre - Founder & CEO </p>
+            <p className="text-3xl xs:text-[1.6rem] xl:text-[1.125rem]" > Shubham Sourav - Founder & CEO </p>
             
             <br /> <p className="xl:mt-[-2rem]" > · Behavioral Strategist · Celebrity Consultant </p> 
           </div>
@@ -99,7 +99,7 @@ const OurFounder = () => {
             sm:text-lg sm:text-left
             xl:text-[1.125rem] "
           >
-            Aakashraj blends over a decade of experience in advertising,
+            Shubham blends over a decade of experience in advertising,
             celebrity marketing, and psychology-driven strategy.
             <br />
             

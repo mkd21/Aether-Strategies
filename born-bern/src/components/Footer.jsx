@@ -7,7 +7,7 @@ const Footer = () => {
         {/* Left Side - Name and Title */}
         <div className="space-y-2">
           <h1 className="text-3xl sm:text-4xl font-bold font-title ">
-            Client Name
+            Shubham Sourav
           </h1>
           <p className="text-lg text-gray-300 font-subtitle ">Founder & CEO</p>
         </div>
