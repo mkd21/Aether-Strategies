@@ -118,7 +118,7 @@ const About = () => {
             md:text-left
             xl:text-[1.125rem]"
           >
-            BonBern Think Tank Studio is a behavior-first consultancy. <br />
+            Aether Strategies Think Tank Studio is a behavior-first consultancy. <br />
             We believe the world doesn't move on logic — it moves on emotions, stories, and belief.
             <br />
             So we go beyond marketing — into minds, memories, and meaning. <br />

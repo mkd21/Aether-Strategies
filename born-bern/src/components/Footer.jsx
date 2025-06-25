@@ -56,7 +56,7 @@ const Footer = () => {
           rel="noopener noreferrer"
           className="text-gray-300 hover:underline"
         >
-          www.bonbern.com
+          www.AetherStrategies.com
         </a>
       </div>
     </footer>

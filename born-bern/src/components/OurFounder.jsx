@@ -103,7 +103,7 @@ const OurFounder = () => {
             celebrity marketing, and psychology-driven strategy.
             <br />
             
-              BonBern is his brainchild created to help individuals and brands
+              Aether Strategies is his brainchild created to help individuals and brands
               shape how they are seen, heard, and remembered.
             
           </p>
