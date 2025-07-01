@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Menu, X } from "lucide-react"; // or any icon library
 
-import Logo from "../../assets/logo1.jpg";
+import Logo from "../../assets/logo1.png";
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
